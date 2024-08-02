@@ -12,11 +12,11 @@
 ===========================*/
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800;900&display=swap");
 :root {
-  --font: "Inter", sans-serif;
+  --font: "Inter", poppins;
   --body-color: #637381;
   --heading-color: #212b36;
-  --primary-color: #3056d3;
-  --white: #ffffff;
+  --primary-color: #FFCB46;
+  --white: #343434;
 }
 
 body {
@@ -898,8 +898,8 @@ p {
 }
 
 .ud-single-pricing.active {
-  background: -webkit-gradient(linear, left top, left bottom, from(#3056d3), to(#179bee));
-  background: linear-gradient(180deg, #3056d3 0%, #179bee 100%);
+  background: -webkit-gradient(linear, left top, left bottom, from(#FFCB46), to(#179bee));
+  background: linear-gradient(180deg, #FFCB46 0%, #179bee 100%);
   border: none;
   padding: 55px 30px;
 }
@@ -1984,7 +1984,7 @@ p {
   font-weight: 500;
   font-size: 14px;
   line-height: 28px;
-  color: #ffffff;
+  color: #343434;
 }
 
 .ud-blog-overlay-content .ud-blog-author a {
@@ -2014,7 +2014,7 @@ p {
   font-weight: 500;
   font-size: 14px;
   line-height: 28px;
-  color: #ffffff;
+  color: #343434;
   margin-right: 30px;
 }
 
